@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\pre-dexed\debug\classes-1ea4ad0622f405d35a29fbce419527d0dfbcb30e.jar" />
+    </item>
+    <item
+        jar="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\pre-dexed\debug\classes-a1344e65546daf73f296253b33994f890d3f8989.jar" />
+    </item>
+    <item
+        jar="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\pre-dexed\debug\classes-a712f406a37a45e45d05f9bef57cd0e7d475d022.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay Kumar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-2d24168f8b781f77380103081fe4dbbb8d34db0f.jar" />
+    </item>
+    <item
+        jar="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="E:\USERS\AndroidStudioProjects\BluetoothChat1\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d26e421d009381c240ef987443cfcee880409ff1.jar" />
+    </item>
+
+</items>
